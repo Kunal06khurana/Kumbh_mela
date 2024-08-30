@@ -1,0 +1,31 @@
+.img1{
+    height:60px;
+}
+.img2,.img3,.img4,.img5{
+    height:60px;
+    
+
+}
+.img6,.img7{
+    height:120px;
+}
+.img8{
+    height:70px;
+    
+}
+.img9{
+    height:60px;
+}
+.img10{
+    height:180px;
+    width:250px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.img11{
+    height:200px;
+    width:200px;
+    display: block;
+    margin-left:100px;
+    margin-top:10px;
+}
